@@ -22,5 +22,3 @@ Start server (localhost:5000)
 ```
 npx nodemon server
 ```
-
-![Homepage](https://raw.githubusercontent.com/FINAL-B0SS/Video-Sound-Enhancer/master/screenshot.png)
